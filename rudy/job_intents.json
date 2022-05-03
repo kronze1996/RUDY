@@ -27,6 +27,10 @@
       {"tag": "options",
        "patterns": ["What do you do", "How can you help", "What do you know", "What is your purpose", "How can you help"],
        "responses": ["I can do nothing", "Waste your time","Get a life"]
+      },
+      {"tag": "rudejoke",
+       "patterns": ["tell me a joke", "can you stop joking?", "jokes", "joker", "do you know any jokes"],
+       "responses": ["You are so fat that your butt has it's own zip code", "Mirrors don't lie, and lucky for you they don't laugh","You're so ugly that blind people cry when you walk past them.","You're so ugly that when you walk into your local bank they have to turn off the security cameras so they don't break.","You are so ugly that when you look at the mirror, your reflection throws up"]
       }
   ]
 }
